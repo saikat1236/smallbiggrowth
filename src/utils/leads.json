@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "firstName": "John",
+        "lastName": "Doe",
+        "companyName": "Innovate Ltd",
+        "linkedInProfile": "https://linkedin.com/in/johndoe",
+        "jobTitle": "Product Manager",
+        "email": "john.doe@example.com",
+        "phoneNumber": "123-456-7890",
+        "emailRevealed": false
+    },
+    {
+        "id": 2,
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "companyName": "TechGiant",
+        "linkedInProfile": "https://linkedin.com/in/janesmith",
+        "jobTitle": "Software Developer",
+        "email": "jane.smith@example.com",
+        "phoneNumber": "987-654-3210",
+        "emailRevealed": false
+    },
+    {
+        "id": 3,
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "companyName": "HealthPlus",
+        "linkedInProfile": "https://linkedin.com/in/alicejohnson",
+        "jobTitle": "HR Manager",
+        "email": "alice.johnson@example.com",
+        "phoneNumber": "234-567-8901",
+        "emailRevealed": false
+    },
+    {
+        "id": 4,
+        "firstName": "Bob",
+        "lastName": "Wright",
+        "companyName": "ConstructCo",
+        "linkedInProfile": "https://linkedin.com/in/bobwright",
+        "jobTitle": "Operations Director",
+        "email": "bob.wright@example.com",
+        "phoneNumber": "345-678-9012",
+        "emailRevealed": false
+    },
+    {
+        "id": 5,
+        "firstName": "Clara",
+        "lastName": "Bell",
+        "companyName": "EduTech",
+        "linkedInProfile": "https://linkedin.com/in/clarabell",
+        "jobTitle": "Education Specialist",
+        "email": "clara.bell@example.com",
+        "phoneNumber": "456-789-0123",
+        "emailRevealed": false
+    },
+    {
+        "id": 6,
+        "firstName": "David",
+        "lastName": "Green",
+        "companyName": "GreenSolutions",
+        "linkedInProfile": "https://linkedin.com/in/davidgreen",
+        "jobTitle": "Environmental Consultant",
+        "email": "david.green@example.com",
+        "phoneNumber": "567-890-1234",
+        "emailRevealed": false
+    },
+    {
+        "id": 7,
+        "firstName": "Eva",
+        "lastName": "Storm",
+        "companyName": "StormMedia",
+        "linkedInProfile": "https://linkedin.com/in/evastorm",
+        "jobTitle": "Media Analyst",
+        "email": "eva.storm@example.com",
+        "phoneNumber": "678-901-2345",
+        "emailRevealed": false
+    },
+    {
+        "id": 8,
+        "firstName": "Frank",
+        "lastName": "Gale",
+        "companyName": "InnovateEnergy",
+        "linkedInProfile": "https://linkedin.com/in/frankgale",
+        "jobTitle": "Project Manager",
+        "email": "frank.gale@example.com",
+        "phoneNumber": "789-012-3456",
+        "emailRevealed": false
+    },
+    {
+        "id": 9,
+        "firstName": "Grace",
+        "lastName": "Hopper",
+        "companyName": "CyberTech",
+        "linkedInProfile": "https://linkedin.com/in/gracehopper",
+        "jobTitle": "Chief Technology Officer",
+        "email": "grace.hopper@example.com",
+        "phoneNumber": "890-123-4567",
+        "emailRevealed": false
+    },
+    {
+        "id": 10,
+        "firstName": "Harry",
+        "lastName": "Potter",
+        "companyName": "MagicWorks",
+        "linkedInProfile": "https://linkedin.com/in/harrypotter",
+        "jobTitle": "Creative Director",
+        "email": "harry.potter@example.com",
+        "phoneNumber": "901-234-5678",
+        "emailRevealed": false
+    }
+]

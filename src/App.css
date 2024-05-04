@@ -1,0 +1,85 @@
+.next-steps .fa-link {
+  margin-right: 5px;
+}
+
+/* Fix for use only flexbox in content area */
+.next-steps .row {
+  margin-bottom: 0;
+}
+
+.next-steps .col-md-5 {
+  margin-bottom: 3rem;
+}
+
+@media (max-width: 768px) {
+  .next-steps .col-md-5 {
+    margin-bottom: 0;
+  }
+}
+
+.spinner {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  align-items: center;
+}
+/* .app-logo{
+  margin-bottom: 0;
+} */
+.result-block-container .result-block {
+  opacity: 1;
+}
+.lead-card {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  transition: box-shadow 0.3s;
+}
+
+.lead-card:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.lead-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.lead-header h6 {
+  margin: 0;
+  flex-grow: 1;
+  font-size: 18px;
+}
+
+.lead-link {
+  text-decoration: none;
+  color: #0056b3;
+}
+
+.lead-link:hover {
+  text-decoration: underline;
+}
+
+.reveal-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.reveal-btn:hover {
+  background-color: #0056b3;
+}
