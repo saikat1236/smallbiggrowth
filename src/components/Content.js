@@ -64,6 +64,7 @@ class Leads extends Component {
         const { leads } = this.state;
 
         return (
+          
             <div className="next-steps my-5">
                 <h2 className="my-5 text-center">Leads List</h2>
                 {leads.map((lead, index) => (

@@ -7,7 +7,10 @@ const Home = () => (
   <Fragment>
     <Hero />
     <hr />
-    <Leads />
+    {!isAuthenticated && (
+      <Leads />
+      )}
+    
   </Fragment>
 );
 
